@@ -2,4 +2,4 @@ name:      FluxBB Docs
 markdown:  redcarpet
 pygments:  true
 permalink: pretty
-url: http://xaoseric.github.io/fluxbb-resources
+url: http://xaoseric.github.io/fluxbb-docs
