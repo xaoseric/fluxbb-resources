@@ -1,3 +1,6 @@
-auto: true
-baseurl: /
-url: http://xaoseric.github.io/fluxbb-resources
+name: FluxBB Docs
+markdown: redcarpet
+pygments: true
+category-list: [features]
+permalink: pretty
+baseurl: http://xaoseric.github.io/fluxbb-resources
